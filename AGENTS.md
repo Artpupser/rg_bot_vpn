@@ -23,6 +23,9 @@ Follow `.codex/skills/testing-skill/SKILL.md`
 - Complete the entire specification before testing
 - Reuse existing tests, fix all detected regressions, and avoid unnecessary test creation or repeated runs
 
+## Conditions
+- don't create README.md
+
 ## Centralized Systems
 | Name | Purpose | Canonical path |
 |------|---------|----------------|

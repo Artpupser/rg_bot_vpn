@@ -1,0 +1,32 @@
+{
+  ".codex/skills/backend-skill/SKILL.md": {
+    "mtime": 1795767351.2764063,
+    "seen": 1795769056.955408,
+    "ast_hash": "e782971af3811234cdea01e4d2172860",
+    "semantic_hash": "e782971af3811234cdea01e4d2172860"
+  },
+  ".codex/skills/documentation-policy-skill/SKILL.md": {
+    "mtime": 1795764264.394921,
+    "seen": 1795769056.9554124,
+    "ast_hash": "2af081eb6f933eb280f266140f47a8c0",
+    "semantic_hash": "2af081eb6f933eb280f266140f47a8c0"
+  },
+  ".codex/skills/testing-skill/SKILL.md": {
+    "mtime": 1795764265.488948,
+    "seen": 1795769056.9554145,
+    "ast_hash": "a13993feb9d7c93134a90e06c3af30ae",
+    "semantic_hash": "a13993feb9d7c93134a90e06c3af30ae"
+  },
+  "AGENTS.md": {
+    "mtime": 1795768924.4376984,
+    "seen": 1795769056.955416,
+    "ast_hash": "fe41b3894f602e687a56b0c38621fa10",
+    "semantic_hash": "fe41b3894f602e687a56b0c38621fa10"
+  },
+  "project/prompts.md": {
+    "mtime": 1795768035.4596553,
+    "seen": 1795769056.9554174,
+    "ast_hash": "920d2b809537edda2319989dfaacad07",
+    "semantic_hash": "920d2b809537edda2319989dfaacad07"
+  }
+}
